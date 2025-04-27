@@ -14,6 +14,6 @@
 
 ## 🛠️ How to Use  
 - [Download Excel Analysis](Superstore_sales.xlsx)  
-- [Interactive Tableau Dashboard]([Tableau_Public_Link](https://public.tableau.com/views/SuperstoreSalesDashboard_17457348889180/SuperstoreSalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+- [Interactive Tableau Dashboard](https://public.tableau.com/views/SuperstoreSalesDashboard_17457348889180/SuperstoreSalesDashboard?)
 
-![Dashboard Preview](Superstore_sales.png)  
+![Dashboard Preview](Superstore_Sales.png)  
